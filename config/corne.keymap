@@ -11,7 +11,7 @@
 // #define EUCALYN	3
 #define FUNC	3
 #define NUMB	4
-#define OTHER	5
+#define CTRL	5
 
 #define COMBO(NAME, TM, POS, BIND) NAME {\
 	slow-release; timeout-ms = <TM>;\
